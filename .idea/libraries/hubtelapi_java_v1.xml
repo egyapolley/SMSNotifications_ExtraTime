@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="hubtelapi-java-v1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Project Tools/hubtel-sms-java-master/hubtel-sms-java-master/binaries/hubtelapi-java-v1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Project Tools/hubtel-sms-java-master/hubtel-sms-java-master/binaries/hubtelapi-java-v1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

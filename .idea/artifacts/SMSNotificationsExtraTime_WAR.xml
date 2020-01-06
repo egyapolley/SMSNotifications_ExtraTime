@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SMSNotificationsExtraTime_WAR">
+    <output-path>$USER_HOME$/Desktop/android res</output-path>
+    <root id="archive" name="SMSNotificationsExtraTime_WAR.war">
+      <element id="artifact" artifact-name="SMSNotificationsExtraTime" />
+    </root>
+  </artifact>
+</component>

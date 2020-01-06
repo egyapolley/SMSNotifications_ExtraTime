@@ -17,12 +17,7 @@ public class RestUtility {
         String message = DButility.getMessage(smsID);
         if (message != null) {
 
-            if (smsID == 900) {
-                message = message.replace("SSSSSS", code);
-
-            }
-
-
+            message = message.replace("SSSSSS", code);
             BasicAuth basicAuth = new BasicAuth(USERNAME, PASSWORD);
             ApiHost apiHost = new ApiHost(basicAuth);
             apiHost.setSecuredConnection(false);
